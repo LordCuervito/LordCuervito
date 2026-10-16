@@ -11,7 +11,7 @@ Building computational workflows to explore biology—and AI tools to support re
 
 ## About me
 
-I'm a biologist working with RNA-Seq, computational genomics, and Culicinae metatranscriptomics. I use Python, R, and Linux/WSL to analyze biological data, build analysis pipelines, and explore patterns through statistics, visualization, and machine learning.
+I'm a biologist working with RNA-Seq, computational genomics, and metatranscriptomics. I use Python, R, and Linux/WSL to analyze biological data, build analysis pipelines, and explore patterns through statistics, visualization, and machine learning.
 
 I also build LLM-powered applications and AI agents, integrating APIs, retrieval-augmented generation (RAG), vector databases, and voice interfaces.
 
