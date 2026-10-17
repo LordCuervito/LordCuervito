@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Germán Cuervo 👋
+# Hi, I'm Cuervito 👋
 ### Biologist · Bioinformatics & Data Science · Applied AI
 
 Building computational workflows to explore biology—and AI tools to support research and everyday work.
